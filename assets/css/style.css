@@ -1,0 +1,30 @@
+
+h1{
+	background-color: black;
+	color: white;
+	font-family: Arial;
+	width: 100%;
+	text-align: center;
+}
+button {
+	background-color: red;
+	color: white;
+	font-size: 20px;
+	font-family: Arial;
+	border-radius: 1px;
+	margin-right: 5px;
+}
+#athletes {
+	margin-bottom: 60px;
+}
+form {
+	font-size: 20px;
+	font-family: Arial;
+	float: right;
+	font-weight: bold;
+}
+#addedAthlete {
+	background-color: red;
+	color: white;
+	border-radius: 10px;
+}
